@@ -1,0 +1,31 @@
+Es.1
+Task 1 - Preparare una torta
+1. Prendo gli ingredienti (input)
+2. Mescolo insieme gli ingredienti
+3. Accendo il forno
+4. Aspetto
+5. Se il forno non è a temperatura torno al punto 4
+6. Inforno la torta
+7. Metto un timer
+8. Aspetto
+9. Se non è cotta torno al punto 8
+10. Tolgo dal forno la torta (output)
+
+Task 2 - Fare benzina
+1. Prendo la macchina (input)
+2. Vado dal benzinaio
+3. Prendo la pompa
+4. Aspetto
+5. Se il serbatoio non è pieno torno al punto 4
+6. Pago
+7. Vado via (output)
+
+Task 3 - Fare la spesa
+1. Prendo la lista della spesa (input)
+2. vado al supermercato
+3. Scelgo gli articoli che mi servono
+4. Vado in cassa
+5. aspetto
+6. Se non è il mio turno torno al punto 5
+7. Pago
+8. Vado via (output)
